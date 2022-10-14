@@ -1,0 +1,3 @@
+101 ramu 19 male
+102 siva 20	male	
+103 umesh 22 male
